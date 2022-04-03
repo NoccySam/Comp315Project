@@ -2,7 +2,7 @@
 
 Client::Client()
 {
-    //ctor
+    //constructor
 }
 
 Client::~Client()
